@@ -1,0 +1,218 @@
+/* //META{ "name": "black", "description": "completely pitch black discord theme.", "author": "ArceusMatt", "version": "1.0.0", "source":"https://github.com/arceusmatt/betterdiscord-themes/black.theme.css"} *//**/
+
+/*base*/
+
+#app-mount{
+    background-color: #000 !important;
+}
+
+.da-guilds{
+    background-color: #000 !important;
+}
+
+.da-wrapper{
+    background-color: red;
+    opacity: 1;
+}
+
+.da-wrapperSelectedText{
+    background-color: #000 !important;
+}
+
+.da-channel{
+    background-color: #000 !important;
+}
+
+.da-header{
+    background-color: #000 !important;
+}
+
+.da-body{
+    background-color: #000 !important;
+}
+
+.da-footer{
+    background-color: #000 !important;
+}
+
+.da-typing{
+    background-color: #000 !important;
+    opacity: 0.2;
+}
+
+.da-content{
+    background-color: #000 !important;
+}
+
+.da-spacer{
+    background-color: #000 !important;
+}
+
+.da-flex{
+    background-color: #000 !important;
+}
+
+.da-systemPad{
+    background-color: #000 !important;
+}
+
+.da-image{
+    background-color: #000 !important;
+}
+
+/*friends*/
+
+.da-friendsTableHeader{
+    background-color: #000 !important;
+}
+
+.da-friendsTableBody{
+    background-color: #000 !important;
+}
+
+.da-friendsRow{
+    background-color: #000 !important;
+}
+
+.da-friendsAction{
+    background-color: #000 !important;
+}
+
+
+/*store*/
+
+.da-cardBody{
+    background-color: #000 !important;
+}
+
+.da-emptyStateLarge{
+    background-color: #000 !important;
+}
+
+.da-scrollerStore{
+    background-color: #000 !important;
+}
+
+.da-quickswitcher{
+    background-color: #000 !important;
+}
+
+/*guild*/
+
+.da-messagesWrapper{
+    background-color: #000 !important;
+}
+
+.da-members{
+    background-color: #000 !important;
+}
+
+.da-contentSelectedText{
+    background-color: #000 !important;
+}
+
+.da-contentDefaultText{
+    background-color: #000 !important;
+}
+
+.da-member{
+    background-color: #000 !important;
+}
+
+.da-activity{
+    background-color: #000 !important;
+}
+
+.da-guildsWrapper{
+    background-color: #000 !important;
+}
+
+.da-wrapperSelectedText, .da-wrapperDefaultText, .da-wrapperUnreadText, .da-wrapperSelectedVoice, .da-wrapperDefaultVoice{
+    background-color: #000 !important;
+}
+
+/*search*/
+
+.da-searchDialog{
+    background-color: #000 !important;
+}
+
+/*settings*/
+
+.da-item{
+    background-color: #000 !important;
+}
+
+.da-cardPrimary{
+    background-color: #000 !important;
+}
+
+.da-connection{
+    background-color: #000 !important;
+}
+
+.da-membershipDialog{
+    background-color: #000 !important;
+}
+
+.da-accountBtn{
+    background-color: #000 !important;
+}
+
+/*other stuff*/
+
+textarea{
+    background-color: #000 !important;
+    color: #fff !important;
+}
+
+::-webkit-scrollbar{
+    background-color: #000 !important;
+    opacity: 0.1;
+}
+
+a{
+    background-color: #000 !important;
+}
+
+input{
+    background-color: #000 !important;
+    color: #fff !important;
+}
+
+button{
+    background-color: #ff00 !important;
+}
+
+.content-region-scroller{
+    background-color: #000 !important;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: #000 !important;
+    opacity: 0.1;
+}
+
+::-webkit-scrollbar-thumb:hover{
+    background-color: #fff !important;
+    opacity: 0.1;
+}
+
+::-webkit-scrollbar-track-piece{
+    background-color: rgb(32, 32, 32) !important;
+    opacity: 0.1;
+}
+
+::-webkit-scrollbar-track{
+    background-color: rgb(32, 32, 32) !important;
+    opacity: 0.1;
+}
+
+.da-wrapperCollapsed{
+    opacity: 0.6;
+}
+
+.da-wrapperCollapsed:hover{
+    color: #fff;
+    opacity: 1;
+}
